@@ -1,0 +1,2 @@
+[17-Jan-2015 12:05:04 UTC] PHP Fatal error:  Call to undefined function utf_decode() in /home/chingacarlos/public_html/ism/trabajadorListado.php on line 36
+[26-Jan-2015 04:08:11 UTC] PHP Fatal error:  Call to undefined function date_time_zone() in /home/chingacarlos/public_html/ism/reporte/cartaSENATI.php on line 27
