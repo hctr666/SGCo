@@ -165,7 +165,7 @@
                 /*position: fixed;*/
                 margin-left: 600px;
                 text-indent: -9999px;
-                background: url('img/down.png') no-repeat;
+                //background: url('img/down.png') no-repeat;
                 /*background-color: #000;*/
             }
         </style>
